@@ -8,10 +8,10 @@ import _thread
 
 # SYS INFO
 
-Version = '0.01'
+Version = '0.02'
 VersionNickName = 'loved'
 Coder = 'D0OR.TEA'
-SupportUrl = 'https://muse.obent.cn/'
+SupportUrl = 'https://github.com/obentnet/MuseBot'
 
 # MOEGIRL
 def moeGirl():
