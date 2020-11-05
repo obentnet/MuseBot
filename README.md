@@ -19,6 +19,8 @@
 
 下载后,使用CMD或Shell，cd进入程序目录下,输入`muse.py`启动程序
 
+使用过程中如发现BUG或者其他问题,可前往[Issues](https://github.com/obentnet/MuseBot/issues)页面留言
+
 ## Bot功能
 
 ### 上层应用
