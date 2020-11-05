@@ -14,7 +14,7 @@
 ## 下载&使用
 请前往[Releases](https://github.com/obentnet/MuseBot/releases)下载发行版
 
-下载后,使用CMD或Shell，cd进入程序目录下,输出`muse.py`启动程序
+下载后,使用CMD或Shell，cd进入程序目录下,输入`muse.py`启动程序
 
 ## Bot功能
 
