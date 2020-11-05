@@ -3,8 +3,11 @@
 # MuseBot
 
 > 一个简单到刚学Python的人都懂得简易机器人✨
+>
 > a verry simple python bot.
+>
 > By: D0OR.TEA (原: 狱杰|Obentnet)
+
 ------
 
 ## Someone You Loved.
@@ -48,10 +51,15 @@
 ## Muse的故事
 
 Muse,慕涩的恋情。
+
 代指我在喜欢她的时候，仰慕她，但又羞涩止步于喜欢。。。
+
 也许是我喜欢的方式不对,又或许是我不够优秀...
+
 或许都是...
+
 **"I guess I kinda liked the way you numbed all the pain"**
+
 **"我想我还是喜欢你到麻木伤痛的样子"**
 
 > [《Someont You Loved》-Lewis Capaldi](http://music.163.com/song?id=1323911406&userid=323938887)
