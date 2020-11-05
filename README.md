@@ -26,15 +26,15 @@
 **需要使用到的环境**
 由于工具众多,使用了很多环境.如果发现下载之后报错,请先安装以下环境后再试
 
-``Python3.9``
-``os``
-``re``
-``time``
-``json``
-``_thread``
-``requests``
-``webbrowser``
-``BeautifulSoup``
+``Python3.9``|
+``os``|
+``re``|
+``time``|
+``json``|
+``_thread``|
+``requests``|
+``webbrowser``|
+``BeautifulSoup``|
 
 
 ## Bot功能
@@ -89,6 +89,7 @@ Muse,慕涩的恋情。
 
 ## 更新日志
 > 日志说明：💚放心用,💙测试中,🧡被删除或被禁用
+
 2020-11-5:
  - 💚开源
  - 🧡news 新闻模块删除
