@@ -26,15 +26,15 @@
 **需要使用到的环境**
 由于工具众多,使用了很多环境.如果发现下载之后报错,请先安装以下环境后再试
 
-``Python3.9``|
-``os``|
-``re``|
-``time``|
-``json``|
-``_thread``|
-``requests``|
-``webbrowser``|
-``BeautifulSoup``|
+|``Python3.9``|
+|``os``|
+|``re``|
+|``time``|
+|``json``|
+|``_thread``|
+|``requests``|
+|``webbrowser``|
+|``BeautifulSoup``|
 
 
 ## Bot功能
