@@ -1,0 +1,8 @@
+{
+    "startmews":false,
+    "startmenu":false,
+    "startupgrade":true,
+    "startanime":true,
+    "musicautoplay":true,
+    "pipmirrorsurl":"https://pypi.tuna.tsinghua.edu.cn/simple"
+}
