@@ -19,12 +19,15 @@
 
 下载后,使用管理员权限运行CMD或Shell，cd进入程序目录下,输入`muse.py`启动程序
 
+如果发现环境报错,请运行目录下的```install_muse.py```脚本,从而自动安装环境
+
 使用过程中如发现BUG或者其他问题,可前往[Issues](https://github.com/obentnet/MuseBot/issues)页面留言
 
 ### 环境
 
 **需要使用到的环境**
 由于工具众多,使用了很多环境.如果发现下载之后报错,请先安装以下环境后再试
+
 
 |``Python3.x``|
 |``os``|
