@@ -52,6 +52,8 @@
 * baidu: 百度搜索引擎
 * google: 谷歌搜索
 * icp: ICP备案查询
+* netmusic: 网易云音乐解析
+* hitokoto: 一言
 
 ### 底层设置
 * upgrade: 检查更新
