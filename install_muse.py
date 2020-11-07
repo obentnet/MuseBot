@@ -18,12 +18,12 @@ mirrorUrl = config_json_str['pipmirrorsurl']
 
 print('正在准备安装所需环境...')
 
-
 print(
     """
         |``Python3.x``|
         |``os``|
         |``re``|
+        |``sys``|
         |``time``|
         |``json``|
         |``pygame``|
@@ -33,8 +33,6 @@ print(
         |``BeautifulSoup``|
     """
 )
-
-
 
 print('install [ requests ]')
 os.system('pip install -i '+mirrorUrl+' requests')
