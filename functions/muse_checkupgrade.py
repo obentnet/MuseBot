@@ -11,7 +11,7 @@ import json
 import requests
 # SYS INFO
 
-Version = '0.04'
+Version = '0.10'
 VersionNickName = 'loved'
 Coder = 'D0OR.TEA'
 SupportUrl = 'https://github.com/obentnet/MuseBot'
