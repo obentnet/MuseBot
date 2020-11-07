@@ -13,7 +13,7 @@ from functions import muse_ipc,muse_cmd,muse_menu,muse_ping,muse_music,muse_sear
 os.system("title System Staring...")
 
 # SYS INFO
-Version = '0.04'
+Version = '0.10'
 Coder = 'D0OR.TEA'
 VersionNickName = 'loved'
 SupportUrl = 'https://github.com/obentnet/MuseBot'
